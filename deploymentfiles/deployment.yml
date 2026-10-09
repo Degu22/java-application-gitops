@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: dev-container
-          image: nginx:latest
+          image: deviprasad7781/gitops:1
           ports: 
-           - containerPort: 80           
+           - containerPort: 8080           
