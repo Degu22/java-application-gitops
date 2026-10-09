@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: dev-container
-          image: deviprasad7781/gitops:1
+          image: deviprasad7781/gitops:6
           ports: 
            - containerPort: 8080           
